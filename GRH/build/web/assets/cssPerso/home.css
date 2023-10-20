@@ -1,0 +1,13 @@
+.bienvenu{
+    text-align: center;
+}
+
+.description-cell {
+    max-width: 10%; /* Vous pouvez ajuster la valeur en pixels selon votre mise en page */
+    word-wrap: break-word; /* Force le texte à se découper pour s'ajuster à la largeur du conteneur */
+}
+
+.detailBtn{
+    border: none;
+}
+
